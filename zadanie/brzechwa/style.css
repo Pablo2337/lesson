@@ -2,12 +2,12 @@
 
 
 body {
- background : green;
+ background : grey;
  text-align : center;
  margin : 50px;
 }
 div {
- color : rgb(0,0,0);
+ color : rgb(80,80,80);
  background : rgb(0,128,255);
  width : 400px;
  border : 3px black solid;
