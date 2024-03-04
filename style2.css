@@ -1,0 +1,17 @@
+body {
+margin:10%;
+background-color: rgb(80,80,80);
+}
+h1 {
+color: rgb(166, 166, 166);
+font-family:Sans Serif;
+}
+img{
+float:right;
+padding: 2%;
+}
+p {
+font-size:10pt;
+colora: #abc;
+text-align:justify;
+}
