@@ -5,8 +5,8 @@ background-image: linear-gradient(122deg, rgba(198, 0, 109, 1) 27%, rgba(0, 68, 
 }
 h1 {
 color: rgb(255, 255, 255);
- text-shadow: 3px -5px 10px rgba(255, 255, 255, 1);
-font-family:Sans Serif;
+ text-shadow: -1px 0px 15px rgba(255, 255, 255, 1);
+font-family:MoonSpace;
 text-align center
 }
 p 
