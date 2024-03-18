@@ -1,0 +1,35 @@
+body
+{
+margin-left: 17%
+margin-right: 17%
+margin-top: 7%
+margin-bottom: 7%
+font-family: Arial;
+background: rgb(90,90,90);
+}
+h1{
+color:  rgb(166,166,166);
+font-family:verdana;
+font-size:15 pt;
+}
+h2{
+color:  rgb(166,166,166);
+font-family:verdana;
+font-size:12 pt;
+hr{
+background-color:  rgb(166,166,166);
+color:  rgb(166,166,166);
+height: 2px;
+border: 1px;
+}
+p {
+text-align:bottom;
+font-size:1em;
+color: #abc;
+}
+ul{
+list-style-type: circle;
+}
+li{
+text-align: left;
+}
