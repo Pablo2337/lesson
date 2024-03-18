@@ -16,7 +16,8 @@ h2{
 color:  rgb(166,166,166);
 font-family:verdana;
 font-size:12 pt;
-hr{
+hr
+{
 background-color:  rgb(255,0,0);
 color:  rgb(255,0,0);
 height: 2px;
@@ -27,7 +28,8 @@ text-align:bottom;
 font-size:1em;
 color: #abc;
 }
-ul{
+ul
+{
 list-style-type: circle;
 }
 li{
