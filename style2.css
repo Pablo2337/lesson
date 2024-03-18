@@ -9,6 +9,10 @@ color: rgb(255, 255, 255);
 font-family:Comic Sans MS;
 text-align center
 }
+h2
+{
+ text-shadow: 4px 4px 6px rgba(252, 0, 255, 1);
+}
 p 
 {
 font-size:10pt;
