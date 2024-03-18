@@ -8,7 +8,7 @@ font-family: Arial;
 background: rgb(166,166,166);
 }
 h1{
-color:  rgb(200,200,200);
+color:  rgb(166,166,166);
 font-family:verdana;
 font-size:15 pt;
 }
@@ -17,8 +17,7 @@ color:  rgb(166,166,166);
 font-family:verdana;
 font-size:12 pt;
 hr{
-background:  rgb(255,0,0);
-color:  rgb(255,0,0);
+background-color:  rgb(255,0,0);
 height: 2px;
 border: 1px;
 }
