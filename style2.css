@@ -17,6 +17,8 @@ text-align:justify;
 }
 hr
 {
-height: 3px;
-Background-colour: rgb(0, 85, 171)
+background-color:  rgb(0,0,0);
+color:  rgb(255,0,0);
+height: 2px;
 border: 1px;
+}
