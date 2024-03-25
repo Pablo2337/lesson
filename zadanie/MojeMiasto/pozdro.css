@@ -69,3 +69,8 @@ height: 18px;
 .wybor:hover{
 background: #999;
 }
+a 
+{
+ color: rgb(0, 0, 0);
+ text-decoration: none;
+}
