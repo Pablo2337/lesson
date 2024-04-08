@@ -65,3 +65,8 @@ footer p {
      margin: 0;
      clear: both;
 }
+a 
+{
+ color: rgb(0, 0, 0);
+ text-decoration: none;
+}
