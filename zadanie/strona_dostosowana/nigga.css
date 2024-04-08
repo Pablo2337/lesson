@@ -16,7 +16,7 @@ body {
 
 header {
      height: 20%;
-     background-color: gold;
+     background-color: red;
      border-bottom: 1px solid black;
 }
 
@@ -45,7 +45,7 @@ article {
 
 aside {
      width: 15%;
-     background-color: green;
+     background-color: red;
      padding: 1%;
      margin: 1%;
      float: left;
@@ -54,7 +54,7 @@ aside {
 
 footer {
      height: 3%;
-     background-color: green;
+     background-color: red;
      clear: both;
      border-top: 1px solid black;
 }
